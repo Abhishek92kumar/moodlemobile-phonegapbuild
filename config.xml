@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "35200"
-        android-versionCode="35200"
-        version   = "3.5.2">
-    <name>Moodle</name>
+        id        = "com.puucho.app"
+        versionCode = "001"
+        android-versionCode="001"
+        version   = "0.0.1">
+    <name>Puucho</name>
 
     <description>
-        Moodle official app
+       Puucho ( Anything in mind.. Just Puucho..
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.puucho.com" email="abhishek@puucho.com">
+        Puucho Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
